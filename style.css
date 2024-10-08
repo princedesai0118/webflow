@@ -1,0 +1,33 @@
+.br{border: 2px solid red;}
+.buu{border: 2px solid blue;}
+
+.h-70px{
+    min-height: 70px;
+}
+
+.h-300px{
+    min-height: 300px;
+}
+
+.h-700px{
+    min-height: 100vh;
+}
+
+.h-600px{
+    min-height: 600px;
+}
+
+.bc-black{
+    background-color: black;
+}
+
+.c-white{
+    color: white;
+}
+
+.right-se{
+    background-image: url(business-people-working-together.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
